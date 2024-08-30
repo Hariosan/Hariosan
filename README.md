@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <P align="center">Current goal for my coding project is to perfect JavaScript⚡</P>
 
-<P align="center">If you have anything, contact me from the gmail link down below</P>
+<P align="center">If you have anything, contact me from the gmail link down below📧</P>
 
 </br>
 
