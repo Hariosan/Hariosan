@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<P align="center">Current goal for my coding is to perfect JavaScript⚡</P>
+<P align="center">Current goal for my coding project is to perfect JavaScript⚡</P>
 
 <P align="center">If you have anything, contact me from the gmail link down below</P>
 
