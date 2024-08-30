@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 </br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariosan&show_icons=true&locale=en&layout=compact" alt="hariosan" /></p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariosan" alt="hariosan" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariosan" alt="hariosan" width="800" height="100"/></a> </p>
 
 [![Hariosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariosan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
