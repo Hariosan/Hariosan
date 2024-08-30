@@ -15,19 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=hariosan&label=Profile%20views&color=0e75b6&style=flat" alt="hariosan" /> </p>
- <h1 align="center">Hi 👋, I'm Yuma</h1>
+
+<p align="right"> Contact: <a href="mailto:y7960221@gmail.com">y7960221@gmail.com</a> </p>
+
+ <h2 align="center">Hi 👋, I'm Yuma</h2>
 <h3 align="center">A passionate frontend developer from Japan</h3>
-
-- 💬 Ask me about **html css javascript**
-
-- 📫 How to reach me **y7960221@gmail.com**
-
-- ⚡ Fun fact **I am funny**
-
-<h3 align="center">Connect with me:</h3>
-
-</br>
-<p align="center"><a href="mailto:y7960221@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail--v1.png" alt="gmail--v1"/></a> </p>
 
 
 <h3 align="center">Languages and Tools:</h3>
@@ -42,3 +34,7 @@ Here are some ideas to get you started:
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariosan" alt="hariosan" /></a> </p>
 
 [![Hariosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariosan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<h3 align="center">Connect with me:</h3>
+</br>
+<p align="center"><a href="mailto:y7960221@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail--v1.png" alt="gmail--v1"/></a> </p>
