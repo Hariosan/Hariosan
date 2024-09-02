@@ -48,9 +48,9 @@ Here are some ideas to get you started:
 </br>
 
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img src="https://github-profile-trophy.vercel.app/?username=hariosan&theme=chartreuse-dark" width="100%"/>
-</a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=Hariosan&row=1&column=7&theme=matrix" width="100%" />
+</a>
 
 <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com/?user=Hariosan&theme=chartreuse-dark" width="100%" height="300px" />
