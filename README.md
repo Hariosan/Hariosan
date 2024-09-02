@@ -13,6 +13,13 @@
   />
 </picture></p> 
 
+<p align="left">
+  <a href="https://github.com/Hariosan/Hariosan/">
+    <img height="25" src="https://komarev.com/ghpvc/?username=Hariosan" alt="Hariosan" />
+  </a>
+<a href="mailto:y7960221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
  <h2 align="center">Hi 👋, I'm Yuma</h2>
 
