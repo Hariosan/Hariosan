@@ -63,9 +63,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hariosan&theme=chartreuse-dark" width="100%" />
 </a>
-<a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=Shogo-nfrealmusic&theme=chartreuse-dark" width="100%" height="300px" />
-</a>
 
 
 
