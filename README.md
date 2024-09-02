@@ -1,4 +1,4 @@
-<p align="left">
+<p align="right">
   <a href="https://github.com/Hariosan/Hariosan/">
     <img height="25" src="https://komarev.com/ghpvc/?username=Hariosan" alt="Hariosan" />
   </a>
