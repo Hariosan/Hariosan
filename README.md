@@ -1,4 +1,9 @@
-<p align="center"><picture>
+<p align="left">
+  <a href="https://github.com/Hariosan/Hariosan/">
+    <img height="25" src="https://komarev.com/ghpvc/?username=Hariosan" alt="Hariosan" />
+  </a>
+  
+  <p align="center"><picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
@@ -12,11 +17,6 @@
     src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
 </picture></p> 
-
-<p align="left">
-  <a href="https://github.com/Hariosan/Hariosan/">
-    <img height="25" src="https://komarev.com/ghpvc/?username=Hariosan" alt="Hariosan" />
-  </a>
 
  <h2 align="center">Hi 👋, I'm Yuma</h2>
 
