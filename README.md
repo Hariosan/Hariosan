@@ -2,6 +2,9 @@
   <a href="https://github.com/Hariosan/Hariosan/">
     <img height="25" src="https://komarev.com/ghpvc/?username=Hariosan" alt="Hariosan" />
   </a>
+  <a href="mailto:y7960221@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+  </a> 
   
   <p align="center"><picture>
   <source
@@ -45,9 +48,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </div>
-
-
-<a align="right" href="mailto:y7960221@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" width="50%"/>
-  </a> 
 
