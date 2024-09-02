@@ -61,15 +61,18 @@ Here are some ideas to get you started:
 
 
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariosan&show_icons=true&locale=en&layout=compact" alt="hariosan" /></p>
+
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariosan" alt="hariosan"/></a> </p>
 
 [![Hariosan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hariosan&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<h3 align="center">Connect with me:</h3>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariosan&show_icons=true&locale=en&layout=compact" alt="hariosan" /></p>
+
 </br>
+<h3 align="center">Connect with me:</h3>
 <p align="center"><a href="mailto:y7960221@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail--v1.png" alt="gmail--v1"/></a> </p>
+
 
 
 
