@@ -44,17 +44,6 @@ Here are some ideas to get you started:
   />
 </picture></p>
 
-<table>
-    <tr>
-         <td>
-          <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hariosan&" alt="hariosan" /></p>
-         </td>
-         <td>
-          <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=hariosan&show_icons=true&locale=en" alt="hariosan" /></p>
-         </td>
-    </tr>
-</table>
-
 
 </br>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
