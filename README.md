@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 </br>
 <p align="center"><a href="mailto:y7960221@gmail.com"> <img width="96" height="96" src="https://img.icons8.com/color/96/gmail--v1.png" alt="gmail--v1"/></a> </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
+npm install
+
+npm run dev:demo
