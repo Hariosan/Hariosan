@@ -25,7 +25,7 @@
 
 <h3 align="center">A passionate frontend developer from Japan</h3>
 
-<P align="center">Current goal for my coding project is to perfect JavaScript and create Website with the skill⚡</P>
+<P align="center">Current goal for my coding project is to perfect JavaScript and create website with the skill⚡</P>
 
 <P align="center">If you have anything, contact me from the gmail link 📧</P>
 
