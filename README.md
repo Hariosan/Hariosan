@@ -45,7 +45,7 @@
 <h2 align="center">:ballot_box_with_check: Languages-Frameworks-Tools </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,github,discord" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,github,discord,apple" />
   </a>
 </div>
 
